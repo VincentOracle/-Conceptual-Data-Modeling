@@ -1,1 +1,1 @@
-Conceptual models in CS
+Conceptual models in COMPUTER
